@@ -1,0 +1,25 @@
+// purely js for now. i was bullshitting yhis in class
+
+var name='';
+var messageCount=0;
+var route='NOROUTE';
+
+// functions for showing/hiding things
+
+function startScreen() {
+//display start screen stuff
+}
+
+function displayDialog(enabled)
+    if (true) {
+        //show dialogbox
+    }
+    if (false) {
+        //hide dialogbox
+    } 
+    
+function displayOptions() {
+        if () {
+            
+        }
+    }
